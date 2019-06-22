@@ -1,5 +1,6 @@
 # War_Game_App
-This is a simple, yet fun, War card game (https://en.wikipedia.org/wiki/War_(card_game))
+This is a simple, yet fun, War card game iOS application.
+War card game info and rules: https://en.wikipedia.org/wiki/War_(card_game)
 
 # What I Learned
 - Design a UI using image assets with UIStackView
