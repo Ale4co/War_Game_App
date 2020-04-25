@@ -1,4 +1,4 @@
-# War_Game_App
+# War Game App
 This is a simple, yet fun, War card game iOS application.<br/>
 War card game info and rules: https://en.wikipedia.org/wiki/War_(card_game)
 
